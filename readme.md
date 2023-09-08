@@ -8,7 +8,7 @@ https://github.com/russparsloe/nomad-zero-to-wow
 sudo nomad agent -dev
 
 
-http://localhost:4646/ui/jobs
-http://localhost:8500/ui/dc1/services
-http://localhost:9998/routes
-http://localhost:9999/http-echo
+http://localhost:4646/ui/jobs           
+http://localhost:8500/ui/dc1/services           
+http://localhost:9998/routes            
+http://localhost:9999/http-echo         
