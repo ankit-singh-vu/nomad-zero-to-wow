@@ -1,7 +1,9 @@
 ref- 
-https://www.youtube.com/watch?v=xl58mjMJjrg
-https://medium.com/hashicorp-engineering/hashicorp-nomad-from-zero-to-wow-1615345aa539
-https://github.com/russparsloe/nomad-zero-to-wow
+https://www.youtube.com/watch?v=xl58mjMJjrg         
+
+https://medium.com/hashicorp-engineering/hashicorp-nomad-from-zero-to-wow-1615345aa539          
+
+https://github.com/russparsloe/nomad-zero-to-wow            
 
 -----------
 (start nomad )
