@@ -13,7 +13,7 @@ job "fabio" {
             }
 
             artifact {
-                source      = "https://github.com/fabiolb/fabio/releases/download/v1.5.13/fabio-1.5.13-go1.13.4-darwin_amd64"
+                source      = "https://github.com/fabiolb/fabio/releases/download/v1.6.3/fabio-1.6.3-linux_amd64"
                 destination = "local/fabio"
                 mode        = "file"
             }

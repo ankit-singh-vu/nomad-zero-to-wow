@@ -30,7 +30,7 @@ job "http-echo-dynamic-service" {
         port = "http"
 
         tags = [
-          "macbook",
+          "linux",
           "urlprefix-/http-echo",
         ]
 
